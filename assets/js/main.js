@@ -1,4 +1,5 @@
 (function() {
+  // Responsive Sidebar Navigation - by CodyHouse.co
   var searchInput = document.getElementsByClassName('js-cd-search')[0],
     navList = document.getElementsByClassName('js-cd-nav__list')[0];
   if( searchInput && navList) {
